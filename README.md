@@ -4,7 +4,8 @@
  The simple chat built using Qt,TcpSocket,TcpClient
  
  
- ![image](https://user-images.githubusercontent.com/101105839/188437746-4747901c-c8a8-4cf0-b9d3-79eb77ee5a63.png)
+ ![1](https://user-images.githubusercontent.com/101105839/188438685-79204f32-2538-465e-aa71-c35bba7f5891.png)
+
 ![image](https://user-images.githubusercontent.com/101105839/188438283-e53b39ec-740e-4b62-832a-ad3b43243629.png)
 
  ![image](https://user-images.githubusercontent.com/101105839/188438181-f25da222-628d-454b-9b3f-84fa17748d16.png)
